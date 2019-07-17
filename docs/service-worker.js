@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b0a31d5da0211ee2d060605dea70e6f7.js"
+  "/ccanvas/precache-manifest.0fa3342aecce0ced9f657d5015848fea.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "work-pixi"});
